@@ -141,8 +141,8 @@ ai-task-manager/
 
 ## 👨‍💻 Author
 
-**Aravind** — B.Tech CSE @ CMR Engineering College  
-[GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+**Aravind Goud** — B.Tech CSE(AIML) @ CMR Engineering College  
+[GitHub](https://github.com/aravindgoud14377-glitch) · [LinkedIn](https://linkedin.com/in/aravind-goud-917224347)
 
 ---
 
